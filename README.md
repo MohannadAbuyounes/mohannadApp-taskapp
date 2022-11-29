@@ -4,7 +4,7 @@
 
 
 This application aims to serve you in order of your daily tasks, and it will have to be updated every now and then, in order for you to like it more.
-I worked on managing the state of the application using the cluster state management library.
+I worked on managing the state of the application using the BloC state management library.
 
 
 
