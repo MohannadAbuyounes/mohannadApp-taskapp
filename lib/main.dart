@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:taskapp/layout/todo_app/home_layout.dart';
+import 'package:taskapp/view/todo_app/home_layout.dart';
 
 import 'shared/bloc_observer.dart';
 import 'shared/cubit/cubit.dart';
